@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titles">
+        <item>title 1</item>
+        <item>title 2</item>
+        <item>title 3</item>
+        <item>title 4</item>
+        <item>title 5</item>
+        <item>title 6</item>
+        <item>title 7</item>
+        <item>title 8</item>
+        <item>title 9</item>
+        <item>title 10</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>description 1</item>
+        <item>description 2</item>
+        <item>description 3</item>
+        <item>description 4</item>
+        <item>description 5</item>
+        <item>description 6</item>
+        <item>description 7</item>
+        <item>description 8</item>
+        <item>description 9</item>
+        <item>description 10</item>
+    </string-array>
+
+</resources>
